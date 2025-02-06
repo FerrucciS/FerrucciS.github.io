@@ -4,9 +4,9 @@
 
 ## Education
 
-- M.Sc, Physics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       Uppsala University (2025)
+- M.Sc, Physics    Uppsala University (2025)
 ---
-- BSc(Hons), Physics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       Monash University (2021)
+- BSc(Hons),    Monash University (2021)
 ---
 
 ## Projects
