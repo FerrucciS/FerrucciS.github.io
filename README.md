@@ -23,6 +23,8 @@ This analysis explores key trends in Airbnb listings across Melbourne, focusing 
 - Cleansed 10,000+ rows using **SQL**. Identified and eliminated duplicate records, address missing values, and populated key findings to ensure analysis is based on high-quality, accurate data.
 - Explored key market metrics using visualisations in **Tableau**.
 
+---
+
 ### [User Conversion Rate Analysis for Subscription-Based Services](https://github.com/FerrucciS/Free-to-Paid-Conversion-Rate)
 
 This analysis consists of looking at the free-to-paid conversion rate for the marketing and sales team to analyse the effectiveness of marketing campaigns leading new visitors to the website and purchasing subscriptions.
@@ -31,5 +33,7 @@ This analysis consists of looking at the free-to-paid conversion rate for the ma
 - Applied statistical methods in **Python** (Pandas, Seaborn) to uncover trends.
 - Identified key drivers behind conversion patterns, informing targeted marketing strategies to improve customer
 retention.
+
+---
 
 ## Work Experience
