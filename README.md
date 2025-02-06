@@ -6,9 +6,11 @@
 
 
 - **M.Sc, Physics** - Uppsala University (2025)
+  [Thesis](https://drive.google.com/file/d/1F9p_wnJ2jtlQSR7qL2u2Jiv7-S_oQJB9/view?usp=sharing)
 
 ---
 - **B.Sc(Hons), Physics** - Monash University (2021)
+  [Thesis](https://drive.google.com/file/d/17fY5p6XvSEyUcnIo6Xh5TVugr2RJXCR8/view?usp=sharing)
 
 ---
 
