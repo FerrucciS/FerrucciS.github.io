@@ -10,7 +10,7 @@
 
 ---
 - **B.Sc(Hons), Physics** - Monash University (2021)
-  [Thesis](https://drive.google.com/file/d/17fY5p6XvSEyUcnIo6Xh5TVugr2RJXCR8/view?usp=sharing)
+  [Thesis: A Model for Thermal Production of Quark-Antiquark Pairs as a Prelude to (String) Hadronization](https://drive.google.com/file/d/1F9p_wnJ2jtlQSR7qL2u2Jiv7-S_oQJB9/view?usp=sharing)
 
 ---
 
@@ -22,7 +22,9 @@ A leading supermarket client sought insights into consumer purchasing behaviour 
 
 - Prepared and cleaned 265,000 transactional records in Python to segment 7 consumer groups and identify segments contributing up to 8.7% of total revenue.
 - Designed and implemented an A/B testing framework for a store layout trial across 3 stores using matched controls and confidence interval analysis.
-- Delivered insights that supported rollout decisions projected to increase salesand improve marketing efficiency through targeted promotions. 
+- Delivered insights that supported rollout decisions projected to increase salesand improve marketing efficiency through targeted promotions.
+
+---
 
 ### [Melbourne’s Airbnb Rental Market Analysis](https://github.com/FerrucciS/Airbnb)
 
