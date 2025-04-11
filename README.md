@@ -6,7 +6,7 @@
 
 
 - **M.Sc, Physics** - Uppsala University (2025)
-  [Thesis](https://drive.google.com/file/d/1F9p_wnJ2jtlQSR7qL2u2Jiv7-S_oQJB9/view?usp=sharing)
+  [Thesis: Riding Bubbles Out of The Swampland](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-552307)
 
 ---
 - **B.Sc(Hons), Physics** - Monash University (2021)
@@ -15,6 +15,14 @@
 ---
 
 ## Projects
+
+### [Retail Customer Insights and Trial Evaluation (Quantium x Forage)](https://github.com/FerrucciS/Forage-Quantium/)
+
+A leading supermarket client sought insights into consumer purchasing behaviour within the snack foods category, with a particular focus on potato chips. The objective was to deliver data-driven recommendations to inform an upcoming category review. The analysis was conducted aiming to enhance their understanding of customer purchasing behaviour from July 2018 to June 2019 and evaluate the effectiveness of targeted in-store trials.
+
+- Prepared and cleaned 265,000 transactional records in Python to segment 7 consumer groups and identify segments contributing up to 8.7% of total revenue.
+- Designed and implemented an A/B testing framework for a store layout trial across 3 stores using matched controls and confidence interval analysis.
+- Delivered insights that supported rollout decisions projected to increase salesand improve marketing efficiency through targeted promotions. 
 
 ### [Melbourne’s Airbnb Rental Market Analysis](https://github.com/FerrucciS/Airbnb)
 
