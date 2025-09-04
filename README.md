@@ -24,6 +24,20 @@ A leading supermarket client sought insights into consumer purchasing behaviour 
 - Designed and implemented an A/B testing framework for a store layout trial across 3 stores using matched controls and confidence interval analysis.
 - Delivered insights that supported rollout decisions projected to increase salesand improve marketing efficiency through targeted promotions.
 
+![Img](https://github.com/FerrucciS/Forage-Quantium/blob/242e39637e005f676e69c250bc30e9e7fceef957/Images/higest_paying_brand.png)
+
+---
+
+### [Which Platform Wins? Analysing Netflix, Amazon, Disney+ Content Trends](https://github.com/FerrucciS/StreamingServices/)
+
+This project explores the distribution of Movies and TV Shows across four major streaming platforms—Disney+, Hulu, Netflix, and Amazon Prime Video. The analysis provides a visual comparison of content types to inform media strategy and consumer insights.
+
+- Processed and cleaned content type data from each platform using **Python (Pandas)**, ensuring accurate categorization of Movies and TV Shows.  
+- Created **stacked bar charts** with **Matplotlib** and **Seaborn**, applying a consistent color scheme to visually distinguish Movies and TV Shows across platforms.  
+- Designed a clean, annotated visualization highlighting platform-specific content trends, supporting insights into content availability and strategic portfolio planning.
+
+![Movie vs TV Counts](https://github.com/FerrucciS/StreamingServices/blob/e13abf5d1f2bd8d1583a21120995f1e8995bb0d2/images/Release.png)
+
 ---
 
 ### [Melbourne’s Airbnb Rental Market Analysis](https://github.com/FerrucciS/Airbnb)
